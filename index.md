@@ -1,1 +1,1 @@
-### Welcome to STMicroelectronics GitHub Pages.
+### Welcome to STMicroelectronics GitHub Pages
